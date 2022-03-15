@@ -8,4 +8,5 @@ author: Ari Bandong
 
 # web3 and crypto
 
-The invasion of Ukraine by Russia has provided crypto with the perfect use case. Decentralized, borderless and secure transactions for people who are unable to use their credit cards because all of their assets controlled by the central government are frozen. 
+The invasion of Ukraine by Russia has provided crypto with the perfect use case. Bitcoin, Ether and Tether provide decentralized, borderless and secure transactions for people who are unable to use traditional fiat currencies. 
+

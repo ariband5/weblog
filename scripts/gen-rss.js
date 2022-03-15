@@ -7,7 +7,7 @@ async function generate() {
   const feed = new RSS({
     title: 'Ari Bandong',
     site_url: 'https://weblog-nine.vercel.app/',
-    feed_url: 'https://weblog-nine.vercel.app/feed.xml'
+    feed_url: 'https://weblog-nine.vercel.app/pages/posts/feed.xml'
   })
 
   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))

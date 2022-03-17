@@ -8,6 +8,18 @@ author: Ari Bandong
 
 # The Strong & Silent TypeScript
 
+import Image from 'next/image'
+
+
+<Image
+  src="/images\TypeScript_Logo_(Blue).svg"
+  alt="Photo"
+  width={1125}
+  height={650}
+  priority
+  className="next-image"
+/>
+
 Last week, Microsoft introduced a [proposal](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/) for types syntax in JavaScript. 
 
 This can be distilled down to ways of thinking:

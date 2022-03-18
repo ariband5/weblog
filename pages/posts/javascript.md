@@ -24,13 +24,15 @@ Last week, Microsoft introduced a [proposal](https://devblogs.microsoft.com/type
 
 This can be distilled down to two ways of thinking:
 
-1. TypeScript with no build step (i.e. no need to compile)
+1. TypeScript with no build step
 2. JavaScript with types
 
-Types as comments in JavaScript makes sense for a couple of reasons.
+Types in JavaScript makes sense for a couple of reasons.
 
-1. TypeScript was used by 78% of the 2020 State of JS respondents, with 93% saying they would use it again.
-2. TypeScript was given the award for "Most Adopted Technology" based on year-on-year growth.
+1. Static Typing was the most requested language feature in the [State of JS Survey](https://stateofjs.com/) in both [2020](https://2020.stateofjs.com/en-US/opinions/#missing_from_js) and [2021](https://2021.stateofjs.com/en-US/opinions/#currently_missing_from_js_wins).
+
+2. TypeScript is listed as the 4th most-used language in [GitHub's State of the Octoverse](https://octoverse.github.com/#top-languages-over-the-years).
+
 
 
 From the Github [repository](https://github.com/giltayar/proposal-types-as-comments/):

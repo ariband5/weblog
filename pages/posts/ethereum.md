@@ -27,7 +27,7 @@ Buterin has said that cryptocurrency isn't meant to be about massive displays of
 
 > The peril is you have these $3 million monkeys and it becomes a different kind of gambling.
 
-In [Time Magazine's profile](https://time.com/6158182/vitalik-buterin-ethereum-profile/) on Buterin, we see how even early how he dealt with philosophical differences with his co-founder:
+In [Time Magazine's profile](https://time.com/6158182/vitalik-buterin-ethereum-profile/) on Buterin, we see early on how he dealt with philosophical differences with his co-founder:
 
 > Buterin wanted a decentralized open platform on which anyone could build anything. Others wanted to use the technology to create a business. One idea was to build the crypto equivalent to Google, in which Ethereum would use customer data to sell targeted ads.
 

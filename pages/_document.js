@@ -11,7 +11,7 @@ class MyDocument extends Document {
       title: 'Ari Bandong',
       description: 'Surfing the virtual currents of the world wide web',
       image:
-        'https://opensea.io/assets/0xf6e2c197e96b63b982ca639262cdf0a5f296d528/8594'
+        './images/ape.png'
     }
 
     return (

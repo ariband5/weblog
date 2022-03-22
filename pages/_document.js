@@ -9,7 +9,7 @@ class MyDocument extends Document {
   render() {
     const meta = {
       title: 'Ari Bandong',
-      description: 'Surfing the virtual currents of the world wide web',
+      description: 'Developer surfing the virtual currents of the world wide web',
       image:
         './images/ape.png'
     }

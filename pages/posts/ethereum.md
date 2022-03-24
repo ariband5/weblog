@@ -21,7 +21,7 @@ import Image from 'next/image'
 
 When Vitalik Buterin wrote the 36 page [Ethereum white paper](https://ethereum.org/en/whitepaper/) in 2014, his vision for next-generation smart contracts and a decentralized application platform looked extremely promising. The blockchain technology behind Bitcoin showed that the concept of a decentralized digital currency was indeed viable. 
 
-However, we are now in a much more perilous time now that Ethereum has had time to mature. [Yuga Labs](https://www.yugalabs.io/), the creators behind the wildly popular [Bored Apes Yacht Club](https://opensea.io/collection/boredapeyachtclub) NFT's are trending the Ethereum ecosystem toward centralization as they acquired both [Meebits](https://opensea.io/collection/meebits) and [CryptoPunks](https://opensea.io/collection/cryptopunks) last week. 
+However, we are now in a much more perilous time now that Ethereum has had time to mature. [Yuga Labs](https://www.yugalabs.io/), the creators behind the wildly popular [Bored Ape Yacht Club](https://opensea.io/collection/boredapeyachtclub) NFT's are trending the Ethereum ecosystem toward centralization as they acquired both [Meebits](https://opensea.io/collection/meebits) and [CryptoPunks](https://opensea.io/collection/cryptopunks) last week. 
 
 Buterin has said that cryptocurrency isn't meant to be about massive displays of wealth:
 
@@ -32,8 +32,9 @@ In [Time Magazine's profile](https://time.com/6158182/vitalik-buterin-ethereum-p
 > Buterin wanted a decentralized open platform on which anyone could build anything. Others wanted to use the technology to create a business. One idea was to build the crypto equivalent to Google, in which Ethereum would use customer data to sell targeted ads.
 
 Now more than ever the Ethereum ecosystem needs Vitalik's leadership to help maintain the core values that he set out in 2014.
-Plato once said: 
 
 > The most important qualification for any leader is not wanting to be leader. 
+>
+>> <cite>&mdash;Plato</cite>
 
 

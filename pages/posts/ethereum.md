@@ -1,7 +1,7 @@
 ---
-title: Ethereum
+title: Why Vitalik Buterin Needs to Lead Now More Than Ever
 date: 2022/3/21
-description: Ethereum blockchain 
+description: Ethereum's troubling slide toward centralization
 tag: ethereum, decentralization, web3,
 author: Ari Bandong
 ---

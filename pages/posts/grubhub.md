@@ -8,6 +8,17 @@ author: Ari Bandong
 
 # A New Beginning
 
+import Image from 'next/image'
+
+<Image
+  src="/images/Grubhub.jpg"
+  alt="grubhub logo"
+  width={200}
+  height={100}
+  priority
+  className="next-image"
+/>
+
 I began my first week at Grubhub last week. The new title is "technical specialist". 
 
 Though it's not exactly where I want to be, I feel it is a good stepping-stone to a developer role in my future.
